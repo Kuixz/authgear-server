@@ -86,8 +86,9 @@ const (
 
 	AuthflowV2RouteSettingsIdentityListEmail = "/settings/identity/email"
 
-	AuthflowV2RouteSettingsIdentityListPhone = "/settings/identity/phone"
-	AuthflowV2RouteSettingsIdentityViewPhone = "/settings/identity/view_phone"
+	AuthflowV2RouteSettingsIdentityListPhone   = "/settings/identity/phone"
+	AuthflowV2RouteSettingsIdentityViewPhone   = "/settings/identity/view_phone"
+	AuthflowV2RouteSettingsIdentityVerifyPhone = "/settings/identity/verify_phone"
 
 	AuthflowV2RouteSettingsIdentityListUsername = "/settings/identity/username"
 )

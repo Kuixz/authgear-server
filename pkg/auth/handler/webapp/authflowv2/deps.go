@@ -50,5 +50,6 @@ var DependencySet = wire.NewSet(
 	wire.Struct(new(AuthflowV2SettingsIdentityListEmailHandler), "*"),
 	wire.Struct(new(AuthflowV2SettingsIdentityListPhoneHandler), "*"),
 	wire.Struct(new(AuthflowV2SettingsIdentityViewPhoneHandler), "*"),
+	wire.Struct(new(AuthflowV2SettingsIdentityVerifyPhoneHandler), "*"),
 	wire.Struct(new(AuthflowV2SettingsIdentityListUsernameHandler), "*"),
 )
