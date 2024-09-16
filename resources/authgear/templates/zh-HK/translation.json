@@ -1119,6 +1119,7 @@
   "v2.page.settings-identity-list-email.default.navbar-title": "電子郵件",
   "v2.page.settings-identity-list-email.default.not-verified-label": "未驗證",
   "v2.page.settings-identity-list-email.default.verified-label": "已驗證",
+  "v2.page.settings-identity-list-phone.default.navbar-title": "電話",
   "v2.page.settings-identity-list-username.default.button-add-username-label": "+ 新增用戶名稱",
   "v2.page.settings-identity-list-username.default.navbar-title": "用戶名稱",
   "v2.page.settings-mfa-create-password.default.navbar-title": "輔助密碼",
